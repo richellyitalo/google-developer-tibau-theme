@@ -1,10 +1,10 @@
 <scheme name="google-code" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-12-04T14:50:21</property>
+    <property name="created">2017-12-04T18:11:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-12-04T14:50:29</property>
+    <property name="modified">2017-12-04T18:11:23</property>
     <property name="originalScheme">google-code</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -483,7 +483,7 @@
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="7f0000" />
+        <option name="FOREGROUND" value="d81b60" />
       </value>
     </option>
     <option name="TEXT">
