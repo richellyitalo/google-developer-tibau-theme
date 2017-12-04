@@ -1,12 +1,13 @@
 <scheme name="google-code" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-12-03T14:27:33</property>
+    <property name="created">2017-12-04T12:14:46</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-12-03T14:27:58</property>
+    <property name="modified">2017-12-04T12:14:53</property>
     <property name="originalScheme">google-code</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.1" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
   <option name="CONSOLE_FONT_NAME" value="Hack" />
@@ -311,6 +312,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
+        <option name="BACKGROUND" value="e4e4ff" />
         <option name="ERROR_STRIPE_COLOR" value="ccccff" />
         <option name="EFFECT_TYPE" value="4" />
       </value>
@@ -439,6 +441,11 @@
     <option name="LUA_STRING">
       <value>
         <option name="FOREGROUND" value="8000" />
+      </value>
+    </option>
+    <option name="MAGIC_MEMBER_ACCESS">
+      <value>
+        <option name="FOREGROUND" value="37474f" />
       </value>
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
