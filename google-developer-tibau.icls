@@ -1,13 +1,13 @@
-<scheme name="google-code" version="142" parent_scheme="Default">
+<scheme name="Google Developer Tibau" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2017-12-04T18:11:04</property>
+    <property name="created">2017-12-04T18:25:01</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.3.0.0</property>
-    <property name="modified">2017-12-04T18:11:23</property>
-    <property name="originalScheme">google-code</property>
+    <property name="modified">2017-12-04T18:25:11</property>
+    <property name="originalScheme">Google Developer Tibau</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
+  <option name="LINE_SPACING" value="1.15" />
   <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="Roboto Mono" />
   <option name="CONSOLE_FONT_NAME" value="Hack" />
